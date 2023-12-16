@@ -1,0 +1,4 @@
+To run, first install the dependencies:
+---------
+npm install
+npm start
